@@ -1,0 +1,3 @@
+slskd_api
+dotenv
+yandex_music

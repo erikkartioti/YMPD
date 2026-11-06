@@ -1,0 +1,6 @@
+services:
+  ympd:
+    image: ympd
+    build:
+      context: .
+      dockerfile: ./Dockerfile
